@@ -30,6 +30,8 @@ public class scriptImageController : MonoBehaviour {
     public void onBackButton()
     {
 
+		Application.Quit ();
+
         //SceneManager.LoadScene("Entry");
 
     } 
