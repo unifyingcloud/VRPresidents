@@ -91,17 +91,17 @@ public class PresidentsScript : MonoBehaviour {
         {
             PresidentsScript persistentScript = persistentGameObject.GetComponent<PresidentsScript>();
               persistentScript.selectedPresident= dd.captionText.text; 
-
+			DontDestroyOnLoad(persistentGameObject);
         }
         else
         { 
         selectedPresident = dd.captionText.text;
-
-
-       
-    }
+			 }
 
         SceneManager.LoadScene("PictureLoader");
     }
+
+
+
 
 }

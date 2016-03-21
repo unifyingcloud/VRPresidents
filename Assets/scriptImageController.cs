@@ -27,7 +27,17 @@ public class scriptImageController : MonoBehaviour {
 
 
     }
-    public void onBackButton()
+
+
+	public void buttonBackClick()
+	{
+
+
+
+		SceneManager.LoadScene("newEntry");
+	}
+
+    public void onExitButton()
     {
 
 		Application.Quit ();

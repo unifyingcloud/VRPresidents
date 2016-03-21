@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scriptImageController.cs">
+    <Files>
+      <File FileName="Assets/scriptImageController.cs" Line="40" Column="23" />
+      <File FileName="Assets/PresidentsScript.cs" Line="105" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jon/VRPresidents/Assets/scriptImageController.cs" line="51" column="1" />
+      <Breakpoint file="/Users/jon/VRPresidents/Assets/PresidentsScript.cs" line="86" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
