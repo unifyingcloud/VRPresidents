@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/PictureLoader.unity
+- path: Assets/newEntry.unity
   isLoaded: 1
   isActive: 1
